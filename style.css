@@ -1,0 +1,18 @@
+.conteiner{
+    width: 50%;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: saddlebrown;
+    font-size: 73px;
+    font-weight: 700;
+}
+
+h2{
+    font-family: candara, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    color: darkslategray;
+    border: solid 3px rgb(0, 158, 179);
+}
